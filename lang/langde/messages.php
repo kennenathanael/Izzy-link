@@ -1,0 +1,20 @@
+<?php
+return [
+    'home'          => 'Startseite',
+    'services'      => 'Leistungen',
+    'centers'       => 'Zentren',
+    'contact'       => 'Kontakt',
+    'student_space' => 'Studentenbereich',
+    'my_space'      => 'Mein Bereich',
+    'activate_app'  => 'App Aktivieren',
+    'main_app'      => 'Haupt-App',
+    'driving'       => 'Easy Driving',
+    'driving_sub'   => 'Fahrschule',
+    'language'      => 'Sprachkurse',
+    'language_sub'  => 'Englisch & Deutsch',
+    'visa'          => 'Visa-Unterstützung',
+    'visa_sub'      => 'Deutschland · Frankreich · Litauen',
+    'german_docs'   => 'Deutsche Dokumentation',
+    'german_sub'    => 'Dokument-Checkliste',
+    'hq'            => 'Hauptsitz',
+];

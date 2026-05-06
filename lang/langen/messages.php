@@ -1,0 +1,20 @@
+<?php
+return [
+    'home'          => 'Home',
+    'services'      => 'Services',
+    'centers'       => 'Centers',
+    'contact'       => 'Contact',
+    'student_space' => 'Student Space',
+    'my_space'      => 'My Space',
+    'activate_app'  => 'Activate App',
+    'main_app'      => 'Main App',
+    'driving'       => 'Easy Driving',
+    'driving_sub'   => 'Driving School',
+    'language'      => 'Language Courses',
+    'language_sub'  => 'English & German',
+    'visa'          => 'Visa Assistance',
+    'visa_sub'      => 'Germany · France · Lithuania',
+    'german_docs'   => 'German Documentation',
+    'german_sub'    => 'Document checklist',
+    'hq'            => 'HQ',
+];

@@ -1,0 +1,20 @@
+<?php
+return [
+    'home'          => 'Accueil',
+    'services'      => 'Services',
+    'centers'       => 'Centres',
+    'contact'       => 'Contact',
+    'student_space' => 'Espace Étudiant',
+    'my_space'      => 'Mon Espace',
+    'activate_app'  => "Activer l'App",
+    'main_app'      => 'App Principale',
+    'driving'       => 'Easy Driving',
+    'driving_sub'   => 'Auto-École',
+    'language'      => 'Cours de Langues',
+    'language_sub'  => 'Anglais & Allemand',
+    'visa'          => 'Assistance Visa',
+    'visa_sub'      => 'Allemagne · France · Lituanie',
+    'german_docs'   => 'Documentation Allemande',
+    'german_sub'    => 'Liste des documents',
+    'hq'            => 'Siège',
+];
